@@ -14,7 +14,7 @@ Criar tabela com 4 colunas e os repetivos conteudos
 O programa está preparado para receber argumentos, onde o primeiro será o link do GitHub e o 2º o path no Github para o ficheiro a analisar.
 Este extra feito está implementado mas está em comentário.
 
-Erros que ocurrerão:
+Erros que ocurreram e que foram corrigidos/substituidos:
 Tentativa de fazer fetch do GitHub causava longa demora e por vezes crash no eclipse. Optou-se por apagar o Repositorio Local sempre que se executava o programa.
 
 Na pasta estara presente o jar
